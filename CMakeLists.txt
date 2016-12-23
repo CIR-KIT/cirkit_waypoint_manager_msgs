@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(waypoint_manager_msgs)
+project(cirkit_waypoint_manager_msgs)
 
 find_package(catkin REQUIRED COMPONENTS message_generation std_msgs geometry_msgs)
 
