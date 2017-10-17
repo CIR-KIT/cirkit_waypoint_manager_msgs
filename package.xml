@@ -5,6 +5,8 @@
   <description>The waypoint_manager_msgs package</description>
 
   <maintainer email="k104009y@mail.kyutech.jp">Arita Yuta</maintainer>
+  <maintainer email="httperror@404-notfound.jp">Yamasaki Tatsuya</maintainer>
+
   <author email="cirkit.infomation@gmail.com">CIR-KIT</author>
 
   <license>BSD</license>
